@@ -7,6 +7,6 @@
 资源:
 		
 - [英文版在线](https://learnpythonthehardway.org/book/)
-- [英文版PDF](../Learn Python The Hard Way, 3rd Edition .pdf)
+- [英文版PDF](https://github.com/SummerRC/Learn-Python-The-Hard-Way/blob/master/Learn%20Python%20The%20Hard%20Way%2C%203rd%20Edition%20.pdf)
 - [~~中文版在线(不推荐)~~](http://www.jb51.net/shouce/Pythonbbf/latest/index.html#)
 
